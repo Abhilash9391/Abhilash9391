@@ -35,9 +35,6 @@ Welcome to my GitHub profile! I'm a passionate developer currently studying comp
 
 ---
 
-## 🎯 2025 GSoC Goal
-
-My aim is to secure a place in GSoC 2025 by applying my JavaScript and MERN skills to projects that make a difference.
 
 ---
 
