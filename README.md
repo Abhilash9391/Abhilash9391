@@ -41,6 +41,7 @@ Welcome to my GitHub profile! I'm a passionate developer currently studying comp
 ## 📫 Let's Connect!
 
 - Email: abhi9391reddy@gmail.com
+- linkedin : Abhilash reddy
   
 
 Happy coding! 😄
