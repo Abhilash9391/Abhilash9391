@@ -6,17 +6,16 @@ Welcome to my GitHub profile! I'm a passionate developer currently studying comp
 
 ## 🛠️ Tech Skills
 
-- **Frontend Development**: JavaScript, HTML, CSS ,react
-- **Backend Development**: Node.js (Working on it in collaboration)
+- **Frontend Development**: JavaScript, HTML, CSS ,react,nextjs
+- **Backend Development**: Node.js 
 - **Tools**: Git, GitHub
-- **Ongoing Learning**: MERN stack, especially JavaScript and react  for GSoC 2025 goals
+- **Ongoing Learning**: MERN stack, especially JavaScript and react  
 
 ---
 
 ## 🚀 Goals and Aspirations
 
 - **Short-term**: 
-  - Build a Spotify clone for deeper insights into frontend development.
   - Master MERN stack essentials, focusing on GSoC-relevant skills.
 - **Long-term**:
   - Excel in my studies and deepen my expertise in Computer Science and Engineering.
