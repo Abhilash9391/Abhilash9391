@@ -1,47 +1,45 @@
-# 👋 Hey there, I'm Abhilash!
+👋 Hey there, I'm Abhilash!
 
-Welcome to my GitHub profile! I'm a passionate developer currently studying computer science engineering. I love working on projects that push my coding skills and bring ideas to life. I'm exploring a variety of areas, including web development, stock market trading, and building applications with the MERN stack.
+Welcome to my little corner on GitHub! I’m a curious developer and computer science student who loves building things that bring ideas to life. Over time, my journey has taken me from web development with the MERN stack to the exciting world of Machine Learning, Deep Learning, and Computer Vision.
 
----
+I enjoy experimenting, learning by doing, and sharing projects that reflect both my growth and my interests.
 
-## 🛠️ Tech Skills
+🛠️ What I Work With
 
-- **Frontend Development**: JavaScript, HTML, CSS ,react,nextjs
-- **Backend Development**: Node.js 
-- **Tools**: Git, GitHub
-- **Ongoing Learning**: MERN stack, especially JavaScript and react  
+AI & ML: Machine Learning algorithms, Deep Learning, Computer Vision
 
----
+Web Development: JavaScript, React, Next.js, Node.js
 
-## 🚀 Goals and Aspirations
+Other Tools: Git & GitHub 
 
-- **Short-term**: 
-  - Master MERN stack essentials, focusing on GSoC-relevant skills.
-- **Long-term**:
-  - Excel in my studies and deepen my expertise in Computer Science and Engineering.
-  - Pursue a Master’s degree, ideally expanding my research and development skills.
-  - Establish a strong foundation to contribute to innovative projects in tech, potentially making a mark in open-source communities and beyond!
+Currently, I’m exploring how ML can be applied in real-world problems while still keeping my web dev roots strong.
 
----
+🚀 What I’m Aiming For
 
-## 🌱 Projects in Progress
+Right now:
 
-- **PetSelling**: A collaborative project where I focus on the frontend, while my friend handles the backend. Building this project has helped me understand Git branching, forking, and organizing code.
-- **Spotify Clone**: A deep-dive into frontend development, sans CSS! This project is part of my practice journey.
+Build solid foundations in ML, DL, and Computer Vision through projects and practice.
 
+Keep improving my problem-solving and coding fluency.
 
+Down the road:
 
+Pursue a Master’s degree and dive deeper into AI research.
 
----
+Contribute to impactful open-source projects and collaborate with like-minded people.
+
+Blend web development and AI to create useful, innovative applications.
+
+🌱 Projects I’m Working On
 
 
----
 
-## 📫 Let's Connect!
+ML/DL Experiments – Small projects exploring image classification, object detection, and other computer vision ideas.
 
-- Email: abhi9391reddy@gmail.com
-- linkedin : Abhilash reddy
-  
+📫 Let’s Connect
 
-Happy coding! 😄
+Email: abhi9391reddy@gmail.com
 
+LinkedIn: Abhilash Reddy
+
+Always happy to connect, collaborate, or just chat about tech! 😄
