@@ -80,16 +80,6 @@ Right now I'm building a solid base in **machine learning, deep learning and com
 | ⚙️ | **Systems programming** | C, networking and operating-systems projects, understanding software closer to the metal |
 | 🧩 | **Problem solving** | Algorithmic challenges, data structures and competitive programming |
 
-### Featured repositories
-
-<!-- PLACEHOLDERS: replace REPO_NAME with real repositories, then delete this comment. -->
-
-| Project | Category | Description |
-|---|---|---|
-| [`REPO_NAME`](https://github.com/Abhilash9391/REPO_NAME) | AI/ML | *Short description of a vision or ML project* |
-| [`REPO_NAME`](https://github.com/Abhilash9391/REPO_NAME) | AI applications | *Short description of an AI agent or tool* |
-| [`REPO_NAME`](https://github.com/Abhilash9391/REPO_NAME) | Systems | *Short description of a C / networking / OS project* |
-| [`REPO_NAME`](https://github.com/Abhilash9391/REPO_NAME) | Problem solving | *Link to a DSA / competitive programming repository* |
 
 <br/>
 
